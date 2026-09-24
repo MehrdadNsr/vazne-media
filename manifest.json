@@ -1,0 +1,1394 @@
+{
+ "ex_chest_press_machine": [
+  {
+   "file": "ex/ex_chest_press_machine/1.webp",
+   "bytes": 32996,
+   "w": 720,
+   "h": 539,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/129/dbad8cd0-5eeb-4de2-8d9e-80c7770735fd.png",
+   "wger_exercise": 129,
+   "ai": true
+  }
+ ],
+ "ex_incline_db_press": [
+  {
+   "file": "ex/ex_incline_db_press/1.webp",
+   "bytes": 12098,
+   "w": 298,
+   "h": 379,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/16/Incline-press-1.png",
+   "wger_exercise": 537,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_incline_db_press/2.webp",
+   "bytes": 12862,
+   "w": 298,
+   "h": 450,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/16/Incline-press-2.png",
+   "wger_exercise": 537,
+   "ai": false
+  }
+ ],
+ "ex_cable_fly": [
+  {
+   "file": "ex/ex_cable_fly/1.webp",
+   "bytes": 16032,
+   "w": 618,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/71/Cable-crossover-2.png",
+   "wger_exercise": 323,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_cable_fly/2.webp",
+   "bytes": 17344,
+   "w": 618,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/71/Cable-crossover-1.png",
+   "wger_exercise": 323,
+   "ai": false
+  }
+ ],
+ "ex_shoulder_press_machine": [
+  {
+   "file": "ex/ex_shoulder_press_machine/1.webp",
+   "bytes": 20252,
+   "w": 543,
+   "h": 720,
+   "author": "wger.de",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/53/Shoulder-press-machine-2.png",
+   "wger_exercise": 543,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_shoulder_press_machine/2.webp",
+   "bytes": 20330,
+   "w": 493,
+   "h": 720,
+   "author": "wger.de",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/53/Shoulder-press-machine-1.png",
+   "wger_exercise": 543,
+   "ai": false
+  }
+ ],
+ "ex_biceps_cable_curl": [
+  {
+   "file": "ex/ex_biceps_cable_curl/1.webp",
+   "bytes": 15502,
+   "w": 287,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/129/Standing-biceps-curl-1.png",
+   "wger_exercise": 95,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_biceps_cable_curl/2.webp",
+   "bytes": 15498,
+   "w": 287,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/129/Standing-biceps-curl-2.png",
+   "wger_exercise": 95,
+   "ai": false
+  }
+ ],
+ "ex_hack_squat": [
+  {
+   "file": "ex/ex_hack_squat/1.webp",
+   "bytes": 23160,
+   "w": 720,
+   "h": 507,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/130/Narrow-stance-hack-squats-1-1024x721.png",
+   "wger_exercise": 375,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_hack_squat/2.webp",
+   "bytes": 24326,
+   "w": 720,
+   "h": 598,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/130/Narrow-stance-hack-squats-2-1024x721.png",
+   "wger_exercise": 375,
+   "ai": false
+  }
+ ],
+ "ex_rdl": [
+  {
+   "file": "ex/ex_rdl/1.webp",
+   "bytes": 13036,
+   "w": 616,
+   "h": 283,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/507/13d526ab-12fc-461e-828a-051dd7c13fb1.png",
+   "wger_exercise": 507,
+   "ai": true
+  }
+ ],
+ "ex_lying_leg_curl": [
+  {
+   "file": "ex/ex_lying_leg_curl/1.webp",
+   "bytes": 15704,
+   "w": 720,
+   "h": 415,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/154/lying-leg-curl-machine-large-1.png",
+   "wger_exercise": 365,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_lying_leg_curl/2.webp",
+   "bytes": 19496,
+   "w": 720,
+   "h": 496,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/154/lying-leg-curl-machine-large-2.png",
+   "wger_exercise": 365,
+   "ai": false
+  }
+ ],
+ "ex_seated_leg_curl": [
+  {
+   "file": "ex/ex_seated_leg_curl/1.webp",
+   "bytes": 22486,
+   "w": 484,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/117/seated-leg-curl-large-1.png",
+   "wger_exercise": 366,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_seated_leg_curl/2.webp",
+   "bytes": 21550,
+   "w": 452,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/117/seated-leg-curl-large-2.png",
+   "wger_exercise": 366,
+   "ai": false
+  }
+ ],
+ "ex_hanging_leg_raise": [
+  {
+   "file": "ex/ex_hanging_leg_raise/1.webp",
+   "bytes": 17854,
+   "w": 720,
+   "h": 568,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/979/27097a3a-5749-428d-b94c-6082afe390f6.png",
+   "wger_exercise": 979,
+   "ai": true
+  }
+ ],
+ "ex_hanging_knee_twist": [
+  {
+   "file": "ex/ex_hanging_knee_twist/1.webp",
+   "bytes": 22230,
+   "w": 720,
+   "h": 696,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/978/d3ffe51f-7eb8-4cc9-9eae-105847af3005.png",
+   "wger_exercise": 978,
+   "ai": true
+  }
+ ],
+ "ex_back_extension": [
+  {
+   "file": "ex/ex_back_extension/1.webp",
+   "bytes": 19150,
+   "w": 550,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/128/Hyperextensions-1.png",
+   "wger_exercise": 301,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_back_extension/2.webp",
+   "bytes": 19772,
+   "w": 720,
+   "h": 604,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/128/Hyperextensions-2.png",
+   "wger_exercise": 301,
+   "ai": false
+  }
+ ],
+ "ex_db_bench_press": [
+  {
+   "file": "ex/ex_db_bench_press/1.webp",
+   "bytes": 21552,
+   "w": 516,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-1.png",
+   "wger_exercise": 75,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_bench_press/2.webp",
+   "bytes": 24488,
+   "w": 612,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/97/Dumbbell-bench-press-2.png",
+   "wger_exercise": 75,
+   "ai": false
+  }
+ ],
+ "ex_hammer_curl": [
+  {
+   "file": "ex/ex_hammer_curl/1.webp",
+   "bytes": 16186,
+   "w": 324,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/86/Bicep-hammer-curl-1.png",
+   "wger_exercise": 272,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_hammer_curl/2.webp",
+   "bytes": 14400,
+   "w": 319,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/86/Bicep-hammer-curl-2.png",
+   "wger_exercise": 272,
+   "ai": false
+  }
+ ],
+ "ex_pallof_press": [
+  {
+   "file": "ex/ex_pallof_press/1.webp",
+   "bytes": 17252,
+   "w": 720,
+   "h": 314,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/1194/0506cb82-b7d6-4e1a-92c9-cfbcfbcd5776.png",
+   "wger_exercise": 1194,
+   "ai": true
+  }
+ ],
+ "ex_weighted_plank": [
+  {
+   "file": "ex/ex_weighted_plank/1.webp",
+   "bytes": 14302,
+   "w": 720,
+   "h": 272,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/1307/321d796a-f394-40b8-a1ea-874bbed6ecee.png",
+   "wger_exercise": 1307,
+   "ai": true
+  }
+ ],
+ "ex_plank": [
+  {
+   "file": "ex/ex_plank/1.webp",
+   "bytes": 14302,
+   "w": 720,
+   "h": 272,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/1307/321d796a-f394-40b8-a1ea-874bbed6ecee.png",
+   "wger_exercise": 1307,
+   "ai": true
+  }
+ ],
+ "ex_db_pullover": [
+  {
+   "file": "ex/ex_db_pullover/1.webp",
+   "bytes": 22486,
+   "w": 720,
+   "h": 453,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/161/b9b1803e-2817-40bf-8ac7-e398ca86d8b4.png",
+   "wger_exercise": 161,
+   "ai": true
+  }
+ ],
+ "ex_cable_rear_delt_fly": [
+  {
+   "file": "ex/ex_cable_rear_delt_fly/1.webp",
+   "bytes": 14782,
+   "w": 572,
+   "h": 720,
+   "author": "cshep442",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/822/74affc0d-03b6-4f33-b5f4-a822a2615f68.png",
+   "wger_exercise": 822,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_cable_rear_delt_fly/2.webp",
+   "bytes": 14536,
+   "w": 533,
+   "h": 720,
+   "author": "cshep442",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/822/6a770e5d-cd62-4754-a18c-eebe2103d7c5.png",
+   "wger_exercise": 822,
+   "ai": false
+  }
+ ],
+ "ex_db_lateral_raise": [
+  {
+   "file": "ex/ex_db_lateral_raise/1.webp",
+   "bytes": 15636,
+   "w": 360,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-2.png",
+   "wger_exercise": 348,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_lateral_raise/2.webp",
+   "bytes": 16446,
+   "w": 658,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/148/lateral-dumbbell-raises-large-1.png",
+   "wger_exercise": 348,
+   "ai": false
+  }
+ ],
+ "ex_db_shrug": [
+  {
+   "file": "ex/ex_db_shrug/1.webp",
+   "bytes": 17550,
+   "w": 329,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/151/Dumbbell-shrugs-2.png",
+   "wger_exercise": 572,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_shrug/2.webp",
+   "bytes": 17480,
+   "w": 329,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/151/Dumbbell-shrugs-1.png",
+   "wger_exercise": 572,
+   "ai": false
+  }
+ ],
+ "ex_bench_press_barbell": [
+  {
+   "file": "ex/ex_bench_press_barbell/1.webp",
+   "bytes": 24810,
+   "w": 693,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/192/Bench-press-1.png",
+   "wger_exercise": 73,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_bench_press_barbell/2.webp",
+   "bytes": 25012,
+   "w": 720,
+   "h": 658,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/192/Bench-press-2.png",
+   "wger_exercise": 73,
+   "ai": false
+  }
+ ],
+ "ex_incline_bench_barbell": [
+  {
+   "file": "ex/ex_incline_bench_barbell/1.webp",
+   "bytes": 24348,
+   "w": 617,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/41/Incline-bench-press-1.png",
+   "wger_exercise": 538,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_incline_bench_barbell/2.webp",
+   "bytes": 27918,
+   "w": 718,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/41/Incline-bench-press-2.png",
+   "wger_exercise": 538,
+   "ai": false
+  }
+ ],
+ "ex_decline_bench_barbell": [
+  {
+   "file": "ex/ex_decline_bench_barbell/1.webp",
+   "bytes": 23760,
+   "w": 720,
+   "h": 596,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/100/Decline-bench-press-1.png",
+   "wger_exercise": 185,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_decline_bench_barbell/2.webp",
+   "bytes": 24620,
+   "w": 720,
+   "h": 506,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/100/Decline-bench-press-2.png",
+   "wger_exercise": 185,
+   "ai": false
+  }
+ ],
+ "ex_db_fly": [
+  {
+   "file": "ex/ex_db_fly/1.webp",
+   "bytes": 20476,
+   "w": 497,
+   "h": 720,
+   "author": "cshep442",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/238/2fc242d3-5bdd-4f97-99bd-678adb8c96fc.png",
+   "wger_exercise": 238,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_fly/2.webp",
+   "bytes": 24812,
+   "w": 703,
+   "h": 720,
+   "author": "cshep442",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/238/c6464fb3-1924-4ff1-adfa-fd36da9b5d13.png",
+   "wger_exercise": 238,
+   "ai": false
+  }
+ ],
+ "ex_pec_deck": [
+  {
+   "file": "ex/ex_pec_deck/1.webp",
+   "bytes": 23780,
+   "w": 494,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/98/Butterfly-machine-2.png",
+   "wger_exercise": 135,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_pec_deck/2.webp",
+   "bytes": 19204,
+   "w": 419,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/98/Butterfly-machine-1.png",
+   "wger_exercise": 135,
+   "ai": false
+  }
+ ],
+ "ex_dips": [
+  {
+   "file": "ex/ex_dips/1.webp",
+   "bytes": 30662,
+   "w": 646,
+   "h": 720,
+   "author": "cshep442",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/194/34600351-8b0b-4cb0-8daa-583537be15b0.png",
+   "wger_exercise": 194,
+   "ai": false
+  }
+ ],
+ "ex_pull_up": [
+  {
+   "file": "ex/ex_pull_up/1.webp",
+   "bytes": 12170,
+   "w": 431,
+   "h": 432,
+   "author": "Imobard",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/475/b0554016-16fd-4dbe-be47-a2a17d16ae0e.jpg",
+   "wger_exercise": 475,
+   "ai": false
+  }
+ ],
+ "ex_chin_up": [
+  {
+   "file": "ex/ex_chin_up/1.webp",
+   "bytes": 14336,
+   "w": 455,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/152/6c1a7459-266d-491a-bd50-7cbaea2bc771.png",
+   "wger_exercise": 152,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_chin_up/2.webp",
+   "bytes": 15770,
+   "w": 557,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/152/b2c5a9f9-8beb-41f7-841c-9664d22a427e.png",
+   "wger_exercise": 152,
+   "ai": false
+  }
+ ],
+ "ex_barbell_row": [
+  {
+   "file": "ex/ex_barbell_row/1.webp",
+   "bytes": 24130,
+   "w": 692,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/109/Barbell-rear-delt-row-1.png",
+   "wger_exercise": 83,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_barbell_row/2.webp",
+   "bytes": 22498,
+   "w": 692,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/109/Barbell-rear-delt-row-2.png",
+   "wger_exercise": 83,
+   "ai": false
+  }
+ ],
+ "ex_seated_cable_row": [
+  {
+   "file": "ex/ex_seated_cable_row/1.webp",
+   "bytes": 17324,
+   "w": 720,
+   "h": 485,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/143/Cable-seated-rows-2.png",
+   "wger_exercise": 394,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_seated_cable_row/2.webp",
+   "bytes": 16378,
+   "w": 720,
+   "h": 484,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/143/Cable-seated-rows-1.png",
+   "wger_exercise": 394,
+   "ai": false
+  }
+ ],
+ "ex_t_bar_row": [
+  {
+   "file": "ex/ex_t_bar_row/1.webp",
+   "bytes": 26768,
+   "w": 669,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/106/T-bar-row-1.png",
+   "wger_exercise": 513,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_t_bar_row/2.webp",
+   "bytes": 26936,
+   "w": 669,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/106/T-bar-row-2.png",
+   "wger_exercise": 513,
+   "ai": false
+  }
+ ],
+ "ex_front_squat": [
+  {
+   "file": "ex/ex_front_squat/1.webp",
+   "bytes": 19660,
+   "w": 603,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/191/Front-squat-1-857x1024.png",
+   "wger_exercise": 257,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_front_squat/2.webp",
+   "bytes": 22802,
+   "w": 720,
+   "h": 687,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/191/Front-squat-2-857x1024.png",
+   "wger_exercise": 257,
+   "ai": false
+  }
+ ],
+ "ex_lunge_db": [
+  {
+   "file": "ex/ex_lunge_db/1.webp",
+   "bytes": 17242,
+   "w": 346,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/113/Walking-lunges-1.png",
+   "wger_exercise": 206,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_lunge_db/2.webp",
+   "bytes": 19458,
+   "w": 611,
+   "h": 691,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/113/Walking-lunges-2.png",
+   "wger_exercise": 206,
+   "ai": false
+  }
+ ],
+ "ex_good_morning": [
+  {
+   "file": "ex/ex_good_morning/1.webp",
+   "bytes": 17942,
+   "w": 627,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/1392/a02c9c7d-f42d-43e0-9946-1b99b014daee.png",
+   "wger_exercise": 1392,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_good_morning/2.webp",
+   "bytes": 18400,
+   "w": 720,
+   "h": 642,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/1392/af848376-3db3-4b16-a056-4aa936d49da4.png",
+   "wger_exercise": 1392,
+   "ai": false
+  }
+ ],
+ "ex_ohp_barbell": [
+  {
+   "file": "ex/ex_ohp_barbell/1.webp",
+   "bytes": 22138,
+   "w": 679,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/119/seated-barbell-shoulder-press-large-1.png",
+   "wger_exercise": 566,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_ohp_barbell/2.webp",
+   "bytes": 18684,
+   "w": 545,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/119/seated-barbell-shoulder-press-large-2.png",
+   "wger_exercise": 566,
+   "ai": false
+  }
+ ],
+ "ex_db_shoulder_press": [
+  {
+   "file": "ex/ex_db_shoulder_press/1.webp",
+   "bytes": 20126,
+   "w": 521,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-1.png",
+   "wger_exercise": 567,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_shoulder_press/2.webp",
+   "bytes": 16762,
+   "w": 424,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/123/dumbbell-shoulder-press-large-2.png",
+   "wger_exercise": 567,
+   "ai": false
+  }
+ ],
+ "ex_front_raise_db": [
+  {
+   "file": "ex/ex_front_raise_db/1.webp",
+   "bytes": 16870,
+   "w": 282,
+   "h": 720,
+   "author": "philip",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/256/b7def5bc-2352-499b-b9e5-fff741003831.png",
+   "wger_exercise": 256,
+   "ai": false
+  }
+ ],
+ "ex_db_rear_delt_fly": [
+  {
+   "file": "ex/ex_db_rear_delt_fly/1.webp",
+   "bytes": 27504,
+   "w": 714,
+   "h": 720,
+   "author": "cshep442",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/487/ad724e5c-b1ed-49e8-9279-a17545b0dd0b.png",
+   "wger_exercise": 487,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_rear_delt_fly/2.webp",
+   "bytes": 24724,
+   "w": 663,
+   "h": 720,
+   "author": "cshep442",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/487/692c598c-0493-42a5-be8b-b9d2e9adcd00.png",
+   "wger_exercise": 487,
+   "ai": false
+  }
+ ],
+ "ex_barbell_shrug": [
+  {
+   "file": "ex/ex_barbell_shrug/1.webp",
+   "bytes": 18326,
+   "w": 492,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/150/Barbell-shrugs-1.png",
+   "wger_exercise": 571,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_barbell_shrug/2.webp",
+   "bytes": 18338,
+   "w": 492,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/150/Barbell-shrugs-2.png",
+   "wger_exercise": 571,
+   "ai": false
+  }
+ ],
+ "ex_barbell_curl": [
+  {
+   "file": "ex/ex_barbell_curl/1.webp",
+   "bytes": 19844,
+   "w": 652,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/74/Bicep-curls-1.png",
+   "wger_exercise": 91,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_barbell_curl/2.webp",
+   "bytes": 19592,
+   "w": 652,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/74/Bicep-curls-2.png",
+   "wger_exercise": 91,
+   "ai": false
+  }
+ ],
+ "ex_db_curl": [
+  {
+   "file": "ex/ex_db_curl/1.webp",
+   "bytes": 15734,
+   "w": 326,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/81/Biceps-curl-1.png",
+   "wger_exercise": 92,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_curl/2.webp",
+   "bytes": 14820,
+   "w": 322,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/81/Biceps-curl-2.png",
+   "wger_exercise": 92,
+   "ai": false
+  }
+ ],
+ "ex_preacher_curl": [
+  {
+   "file": "ex/ex_preacher_curl/1.webp",
+   "bytes": 17698,
+   "w": 523,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/193/Preacher-curl-3-1.png",
+   "wger_exercise": 465,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_preacher_curl/2.webp",
+   "bytes": 18408,
+   "w": 547,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/193/Preacher-curl-3-2.png",
+   "wger_exercise": 465,
+   "ai": false
+  }
+ ],
+ "ex_skull_crusher": [
+  {
+   "file": "ex/ex_skull_crusher/1.webp",
+   "bytes": 19090,
+   "w": 720,
+   "h": 512,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/84/Lying-close-grip-triceps-press-to-chin-1.png",
+   "wger_exercise": 246,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_skull_crusher/2.webp",
+   "bytes": 21160,
+   "w": 720,
+   "h": 644,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/84/Lying-close-grip-triceps-press-to-chin-2.png",
+   "wger_exercise": 246,
+   "ai": false
+  }
+ ],
+ "ex_close_grip_bench": [
+  {
+   "file": "ex/ex_close_grip_bench/1.webp",
+   "bytes": 24788,
+   "w": 720,
+   "h": 708,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/88/Narrow-grip-bench-press-1.png",
+   "wger_exercise": 76,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_close_grip_bench/2.webp",
+   "bytes": 22610,
+   "w": 720,
+   "h": 617,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/88/Narrow-grip-bench-press-2.png",
+   "wger_exercise": 76,
+   "ai": false
+  }
+ ],
+ "ex_crunch": [
+  {
+   "file": "ex/ex_crunch/1.webp",
+   "bytes": 11768,
+   "w": 720,
+   "h": 321,
+   "author": "wger.de contributors",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/91/Crunches-1.png",
+   "wger_exercise": 167,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_crunch/2.webp",
+   "bytes": 12366,
+   "w": 720,
+   "h": 330,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/91/Crunches-2.png",
+   "wger_exercise": 167,
+   "ai": false
+  }
+ ],
+ "ex_lying_leg_raise": [
+  {
+   "file": "ex/ex_lying_leg_raise/1.webp",
+   "bytes": 13432,
+   "w": 720,
+   "h": 357,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/125/Leg-raises-2.png",
+   "wger_exercise": 377,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_lying_leg_raise/2.webp",
+   "bytes": 15898,
+   "w": 670,
+   "h": 585,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/125/Leg-raises-1.png",
+   "wger_exercise": 377,
+   "ai": false
+  }
+ ],
+ "ex_standing_leg_curl": [
+  {
+   "file": "ex/ex_standing_leg_curl/1.webp",
+   "bytes": 17678,
+   "w": 421,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/118/standing-leg-curls-large-1.png",
+   "wger_exercise": 367,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_standing_leg_curl/2.webp",
+   "bytes": 20752,
+   "w": 546,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/118/standing-leg-curls-large-2.png",
+   "wger_exercise": 367,
+   "ai": false
+  }
+ ],
+ "ex_incline_crunch": [
+  {
+   "file": "ex/ex_incline_crunch/1.webp",
+   "bytes": 15108,
+   "w": 720,
+   "h": 518,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/56/Decline-crunch-1.png",
+   "wger_exercise": 171,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_incline_crunch/2.webp",
+   "bytes": 17700,
+   "w": 566,
+   "h": 706,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/56/Decline-crunch-2.png",
+   "wger_exercise": 171,
+   "ai": false
+  }
+ ],
+ "ex_cable_hammer_curl": [
+  {
+   "file": "ex/ex_cable_hammer_curl/1.webp",
+   "bytes": 14796,
+   "w": 287,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/138/Hammer-curls-with-rope-1.png",
+   "wger_exercise": 275,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_cable_hammer_curl/2.webp",
+   "bytes": 14600,
+   "w": 287,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/138/Hammer-curls-with-rope-2.png",
+   "wger_exercise": 275,
+   "ai": false
+  }
+ ],
+ "ex_bench_dip": [
+  {
+   "file": "ex/ex_bench_dip/1.webp",
+   "bytes": 14360,
+   "w": 720,
+   "h": 461,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/83/Bench-dips-1.png",
+   "wger_exercise": 197,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_bench_dip/2.webp",
+   "bytes": 15646,
+   "w": 720,
+   "h": 526,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/83/Bench-dips-2.png",
+   "wger_exercise": 197,
+   "ai": false
+  }
+ ],
+ "ex_reverse_barbell_row": [
+  {
+   "file": "ex/ex_reverse_barbell_row/1.webp",
+   "bytes": 23826,
+   "w": 663,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/110/Reverse-grip-bent-over-rows-1.png",
+   "wger_exercise": 84,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_reverse_barbell_row/2.webp",
+   "bytes": 23046,
+   "w": 681,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/110/Reverse-grip-bent-over-rows-2.png",
+   "wger_exercise": 84,
+   "ai": false
+  }
+ ],
+ "ex_rack_pull": [
+  {
+   "file": "ex/ex_rack_pull/1.webp",
+   "bytes": 14944,
+   "w": 438,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/161/Dead-lifts-2.png",
+   "wger_exercise": 484,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_rack_pull/2.webp",
+   "bytes": 15084,
+   "w": 438,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/161/Dead-lifts-1.png",
+   "wger_exercise": 484,
+   "ai": false
+  }
+ ],
+ "ex_smith_incline_press": [
+  {
+   "file": "ex/ex_smith_incline_press/1.webp",
+   "bytes": 14098,
+   "w": 446,
+   "h": 450,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/61/Close-grip-bench-press-1.png",
+   "wger_exercise": 539,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_smith_incline_press/2.webp",
+   "bytes": 14940,
+   "w": 446,
+   "h": 450,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/61/Close-grip-bench-press-2.png",
+   "wger_exercise": 539,
+   "ai": false
+  }
+ ],
+ "ex_db_upright_row": [
+  {
+   "file": "ex/ex_db_upright_row/1.webp",
+   "bytes": 15920,
+   "w": 341,
+   "h": 720,
+   "author": "cshep442",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/694/119e6823-6960-4341-a9e1-aaf78d7fb57c.png",
+   "wger_exercise": 694,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_upright_row/2.webp",
+   "bytes": 15000,
+   "w": 292,
+   "h": 720,
+   "author": "cshep442",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/694/2e69c005-b241-4806-8557-fc5a4d5ee44d.png",
+   "wger_exercise": 694,
+   "ai": false
+  }
+ ],
+ "ex_side_crunch": [
+  {
+   "file": "ex/ex_side_crunch/1.webp",
+   "bytes": 10952,
+   "w": 720,
+   "h": 326,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/176/Cross-body-crunch-1.png",
+   "wger_exercise": 576,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_side_crunch/2.webp",
+   "bytes": 13326,
+   "w": 720,
+   "h": 356,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/176/Cross-body-crunch-2.png",
+   "wger_exercise": 576,
+   "ai": false
+  }
+ ],
+ "ex_ab_rollout": [
+  {
+   "file": "ex/ex_ab_rollout/1.webp",
+   "bytes": 21948,
+   "w": 720,
+   "h": 377,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/41/34b37423-269f-43d4-9d29-d2a90eeaa6b4.png",
+   "wger_exercise": 41,
+   "ai": true
+  }
+ ],
+ "ex_step_up": [
+  {
+   "file": "ex/ex_step_up/1.webp",
+   "bytes": 21430,
+   "w": 720,
+   "h": 525,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/981/f9377a7e-eb58-4cca-b805-2d36863aeb03.png",
+   "wger_exercise": 981,
+   "ai": true
+  }
+ ],
+ "ex_smith_shoulder_press": [
+  {
+   "file": "ex/ex_smith_shoulder_press/1.webp",
+   "bytes": 29920,
+   "w": 720,
+   "h": 532,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/916/9bf7555a-fec6-43a9-b343-aae496744e5e.png",
+   "wger_exercise": 916,
+   "ai": true
+  }
+ ],
+ "ex_incline_cable_fly": [
+  {
+   "file": "ex/ex_incline_cable_fly/1.webp",
+   "bytes": 24894,
+   "w": 681,
+   "h": 720,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/122/Incline-cable-flyes-1.png",
+   "wger_exercise": 237,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_incline_cable_fly/2.webp",
+   "bytes": 23760,
+   "w": 720,
+   "h": 617,
+   "author": "Everkinetic",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "source": "https://wger.de/media/exercise-images/122/Incline-cable-flyes-2.png",
+   "wger_exercise": 237,
+   "ai": false
+  }
+ ]
+}
