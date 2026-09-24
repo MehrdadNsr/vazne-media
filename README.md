@@ -8,4 +8,4 @@ Open-licensed exercise images for the Vazne (وزنه) app, served through a CDN
 - `manifest.json`: the same data, machine-readable.
 - `tools/selection.py`: which wger images were chosen for which exercise.
 
-Releases are tagged (`v1`, `v2`, …) and a tag is never moved, so app builds can cache files forever.
+App builds pin a commit hash (e.g. `@c3842c7…`), so files at that URL never change and can be cached forever.
