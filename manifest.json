@@ -1488,5 +1488,5025 @@
    "wger_exercise": 1963,
    "ai": true
   }
+ ],
+ "ex_db_row_single": [
+  {
+   "file": "ex/ex_db_row_single/1.webp",
+   "bytes": 32816,
+   "w": 900,
+   "h": 472,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_db_row_single/2.webp",
+   "bytes": 34924,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One-Arm_Dumbbell_Row",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_row_single/3.webp",
+   "bytes": 35382,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One-Arm_Dumbbell_Row",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_lat_pulldown_wide": [
+  {
+   "file": "ex/ex_lat_pulldown_wide/1.webp",
+   "bytes": 47316,
+   "w": 900,
+   "h": 679,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_lat_pulldown_wide/2.webp",
+   "bytes": 35752,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wide-Grip_Lat_Pulldown",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_lat_pulldown_wide/3.webp",
+   "bytes": 35612,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wide-Grip_Lat_Pulldown",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_cable_pullover": [
+  {
+   "file": "ex/ex_cable_pullover/1.webp",
+   "bytes": 35704,
+   "w": 900,
+   "h": 626,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_cable_pullover/2.webp",
+   "bytes": 30064,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Straight-Arm_Pulldown",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_cable_pullover/3.webp",
+   "bytes": 30560,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Straight-Arm_Pulldown",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_cable_lateral_raise": [
+  {
+   "file": "ex/ex_cable_lateral_raise/1.webp",
+   "bytes": 39498,
+   "w": 860,
+   "h": 684,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_face_pull": [
+  {
+   "file": "ex/ex_face_pull/1.webp",
+   "bytes": 35504,
+   "w": 900,
+   "h": 615,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_face_pull/2.webp",
+   "bytes": 21350,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Face_Pull",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_face_pull/3.webp",
+   "bytes": 26680,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Face_Pull",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_triceps_rope_pushdown": [
+  {
+   "file": "ex/ex_triceps_rope_pushdown/1.webp",
+   "bytes": 31492,
+   "w": 770,
+   "h": 686,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_triceps_rope_pushdown/2.webp",
+   "bytes": 44996,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Triceps_Pushdown_-_Rope_Attachment",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_triceps_rope_pushdown/3.webp",
+   "bytes": 44474,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Triceps_Pushdown_-_Rope_Attachment",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_cable_crunch": [
+  {
+   "file": "ex/ex_cable_crunch/1.webp",
+   "bytes": 28594,
+   "w": 900,
+   "h": 573,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_wrist_curl_db": [
+  {
+   "file": "ex/ex_wrist_curl_db/1.webp",
+   "bytes": 24116,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Dumbbell_Palms-Up_Wrist_Curl",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_wrist_curl_db/2.webp",
+   "bytes": 26422,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Dumbbell_Palms-Up_Wrist_Curl",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_neck_extension": [
+  {
+   "file": "ex/ex_neck_extension/1.webp",
+   "bytes": 19664,
+   "w": 900,
+   "h": 268,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_neck_extension/2.webp",
+   "bytes": 29426,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Face_Down_Plate_Neck_Resistance",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_neck_extension/3.webp",
+   "bytes": 30032,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Face_Down_Plate_Neck_Resistance",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_neck_flexion": [
+  {
+   "file": "ex/ex_neck_flexion/1.webp",
+   "bytes": 28890,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Face_Up_Plate_Neck_Resistance",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_neck_flexion/2.webp",
+   "bytes": 28224,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Face_Up_Plate_Neck_Resistance",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_leg_press": [
+  {
+   "file": "ex/ex_leg_press/1.webp",
+   "bytes": 78626,
+   "w": 1024,
+   "h": 645,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_leg_press/2.webp",
+   "bytes": 44490,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leg_Press",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_leg_press/3.webp",
+   "bytes": 43390,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leg_Press",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_calf_press_leg_press": [
+  {
+   "file": "ex/ex_calf_press_leg_press/1.webp",
+   "bytes": 41344,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Calf_Press_On_The_Leg_Press_Machine",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_calf_press_leg_press/2.webp",
+   "bytes": 41276,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Calf_Press_On_The_Leg_Press_Machine",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_leg_extension": [
+  {
+   "file": "ex/ex_leg_extension/1.webp",
+   "bytes": 43820,
+   "w": 900,
+   "h": 539,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_leg_extension/2.webp",
+   "bytes": 40772,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leg_Extensions",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_leg_extension/3.webp",
+   "bytes": 41696,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leg_Extensions",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_bulgarian_split_squat": [
+  {
+   "file": "ex/ex_bulgarian_split_squat/1.webp",
+   "bytes": 31978,
+   "w": 900,
+   "h": 605,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_bulgarian_split_squat/2.webp",
+   "bytes": 40836,
+   "w": 480,
+   "h": 720,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Split_Squat_with_Dumbbells",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_bulgarian_split_squat/3.webp",
+   "bytes": 42928,
+   "w": 480,
+   "h": 720,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Split_Squat_with_Dumbbells",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_hip_thrust": [
+  {
+   "file": "ex/ex_hip_thrust/1.webp",
+   "bytes": 25114,
+   "w": 900,
+   "h": 360,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_hip_thrust/2.webp",
+   "bytes": 23832,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Hip_Thrust",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_hip_thrust/3.webp",
+   "bytes": 23052,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Hip_Thrust",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_farmers_walk": [
+  {
+   "file": "ex/ex_farmers_walk/1.webp",
+   "bytes": 18406,
+   "w": 403,
+   "h": 671,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_farmers_walk/2.webp",
+   "bytes": 36658,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Farmers_Walk",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_farmers_walk/3.webp",
+   "bytes": 34368,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Farmers_Walk",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_triceps_overhead_cable": [
+  {
+   "file": "ex/ex_triceps_overhead_cable/1.webp",
+   "bytes": 33272,
+   "w": 900,
+   "h": 602,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_triceps_overhead_cable/2.webp",
+   "bytes": 45404,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_Rope_Overhead_Triceps_Extension",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_triceps_overhead_cable/3.webp",
+   "bytes": 44558,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_Rope_Overhead_Triceps_Extension",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_seated_calf_raise": [
+  {
+   "file": "ex/ex_seated_calf_raise/1.webp",
+   "bytes": 39566,
+   "w": 900,
+   "h": 630,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_seated_calf_raise/2.webp",
+   "bytes": 27500,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Calf_Raise",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_seated_calf_raise/3.webp",
+   "bytes": 28544,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Calf_Raise",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_reverse_wrist_curl": [
+  {
+   "file": "ex/ex_reverse_wrist_curl/1.webp",
+   "bytes": 35216,
+   "w": 900,
+   "h": 538,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_reverse_wrist_curl/2.webp",
+   "bytes": 25166,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Dumbbell_Palms-Down_Wrist_Curl",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_reverse_wrist_curl/3.webp",
+   "bytes": 26560,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Dumbbell_Palms-Down_Wrist_Curl",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_neck_lateral": [
+  {
+   "file": "ex/ex_neck_lateral/1.webp",
+   "bytes": 22928,
+   "w": 900,
+   "h": 325,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_chest_supported_db_row": [
+  {
+   "file": "ex/ex_chest_supported_db_row/1.webp",
+   "bytes": 42260,
+   "w": 900,
+   "h": 455,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_chest_supported_db_row/2.webp",
+   "bytes": 55900,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Incline_Row",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_chest_supported_db_row/3.webp",
+   "bytes": 55162,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Incline_Row",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_machine_crunch": [
+  {
+   "file": "ex/ex_machine_crunch/1.webp",
+   "bytes": 61030,
+   "w": 900,
+   "h": 581,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_machine_crunch/2.webp",
+   "bytes": 41394,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Ab_Crunch_Machine",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_machine_crunch/3.webp",
+   "bytes": 40750,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Ab_Crunch_Machine",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_prone_y_raise": [
+  {
+   "file": "ex/ex_prone_y_raise/1.webp",
+   "bytes": 37670,
+   "w": 900,
+   "h": 469,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_incline_db_fly": [
+  {
+   "file": "ex/ex_incline_db_fly/1.webp",
+   "bytes": 43610,
+   "w": 900,
+   "h": 548,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_incline_db_fly/2.webp",
+   "bytes": 27804,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Dumbbell_Flyes",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_incline_db_fly/3.webp",
+   "bytes": 28088,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Dumbbell_Flyes",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_push_up": [
+  {
+   "file": "ex/ex_push_up/1.webp",
+   "bytes": 16804,
+   "w": 900,
+   "h": 278,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_push_up/2.webp",
+   "bytes": 32432,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Pushups",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_push_up/3.webp",
+   "bytes": 30970,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Pushups",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_machine_row": [
+  {
+   "file": "ex/ex_machine_row/1.webp",
+   "bytes": 44246,
+   "w": 900,
+   "h": 542,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_machine_row/2.webp",
+   "bytes": 29836,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leverage_Iso_Row",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_machine_row/3.webp",
+   "bytes": 32046,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leverage_Iso_Row",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_deadlift": [
+  {
+   "file": "ex/ex_deadlift/1.webp",
+   "bytes": 54034,
+   "w": 953,
+   "h": 666,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_deadlift/2.webp",
+   "bytes": 34216,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Deadlift",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_deadlift/3.webp",
+   "bytes": 32262,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Deadlift",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_back_squat": [
+  {
+   "file": "ex/ex_back_squat/1.webp",
+   "bytes": 34916,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Squat",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_back_squat/2.webp",
+   "bytes": 33228,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Squat",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_goblet_squat": [
+  {
+   "file": "ex/ex_goblet_squat/1.webp",
+   "bytes": 32328,
+   "w": 725,
+   "h": 687,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_goblet_squat/2.webp",
+   "bytes": 18872,
+   "w": 720,
+   "h": 482,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Goblet_Squat",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_goblet_squat/3.webp",
+   "bytes": 18846,
+   "w": 720,
+   "h": 482,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Goblet_Squat",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_standing_calf_raise": [
+  {
+   "file": "ex/ex_standing_calf_raise/1.webp",
+   "bytes": 34722,
+   "w": 813,
+   "h": 680,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_standing_calf_raise/2.webp",
+   "bytes": 27314,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Calf_Raises",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_standing_calf_raise/3.webp",
+   "bytes": 26714,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Calf_Raises",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_hip_abduction": [
+  {
+   "file": "ex/ex_hip_abduction/1.webp",
+   "bytes": 53406,
+   "w": 900,
+   "h": 564,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_hip_abduction/2.webp",
+   "bytes": 42298,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Thigh_Abductor",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_hip_abduction/3.webp",
+   "bytes": 45306,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Thigh_Abductor",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_glute_kickback_cable": [
+  {
+   "file": "ex/ex_glute_kickback_cable/1.webp",
+   "bytes": 33694,
+   "w": 871,
+   "h": 622,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_glute_kickback_cable/2.webp",
+   "bytes": 33874,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One-Legged_Cable_Kickback",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_glute_kickback_cable/3.webp",
+   "bytes": 35748,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One-Legged_Cable_Kickback",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_arnold_press": [
+  {
+   "file": "ex/ex_arnold_press/1.webp",
+   "bytes": 42112,
+   "w": 771,
+   "h": 670,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_arnold_press/2.webp",
+   "bytes": 25334,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Arnold_Dumbbell_Press",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_arnold_press/3.webp",
+   "bytes": 25370,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Arnold_Dumbbell_Press",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_upright_row": [
+  {
+   "file": "ex/ex_upright_row/1.webp",
+   "bytes": 32142,
+   "w": 900,
+   "h": 586,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_reverse_pec_deck": [
+  {
+   "file": "ex/ex_reverse_pec_deck/1.webp",
+   "bytes": 45818,
+   "w": 900,
+   "h": 610,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_reverse_pec_deck/2.webp",
+   "bytes": 41648,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Machine_Flyes",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_reverse_pec_deck/3.webp",
+   "bytes": 42200,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Machine_Flyes",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_triceps_pushdown_bar": [
+  {
+   "file": "ex/ex_triceps_pushdown_bar/1.webp",
+   "bytes": 33142,
+   "w": 780,
+   "h": 683,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_triceps_pushdown_bar/2.webp",
+   "bytes": 38064,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Triceps_Pushdown",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_triceps_pushdown_bar/3.webp",
+   "bytes": 38390,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Triceps_Pushdown",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_db_kickback": [
+  {
+   "file": "ex/ex_db_kickback/1.webp",
+   "bytes": 31796,
+   "w": 900,
+   "h": 471,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_db_kickback/2.webp",
+   "bytes": 22384,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Tricep_Dumbbell_Kickback",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_kickback/3.webp",
+   "bytes": 22230,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Tricep_Dumbbell_Kickback",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_russian_twist": [
+  {
+   "file": "ex/ex_russian_twist/1.webp",
+   "bytes": 36320,
+   "w": 900,
+   "h": 536,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_russian_twist/2.webp",
+   "bytes": 35912,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Russian_Twist",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_russian_twist/3.webp",
+   "bytes": 35690,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Russian_Twist",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_side_plank": [
+  {
+   "file": "ex/ex_side_plank/1.webp",
+   "bytes": 24308,
+   "w": 847,
+   "h": 424,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_side_plank/2.webp",
+   "bytes": 35730,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Side_Bridge",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_side_plank/3.webp",
+   "bytes": 32504,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Side_Bridge",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_db_overhead_triceps": [
+  {
+   "file": "ex/ex_db_overhead_triceps/1.webp",
+   "bytes": 28554,
+   "w": 839,
+   "h": 667,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_db_overhead_triceps/2.webp",
+   "bytes": 23816,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Dumbbell_Triceps_Extension",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_overhead_triceps/3.webp",
+   "bytes": 23998,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Dumbbell_Triceps_Extension",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_diamond_push_up": [
+  {
+   "file": "ex/ex_diamond_push_up/1.webp",
+   "bytes": 23564,
+   "w": 900,
+   "h": 367,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_diamond_push_up/2.webp",
+   "bytes": 31664,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Push-Ups_-_Close_Triceps_Position",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_diamond_push_up/3.webp",
+   "bytes": 32130,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Push-Ups_-_Close_Triceps_Position",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_wide_push_up": [
+  {
+   "file": "ex/ex_wide_push_up/1.webp",
+   "bytes": 23838,
+   "w": 900,
+   "h": 367,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_wide_push_up/2.webp",
+   "bytes": 20046,
+   "w": 480,
+   "h": 720,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Push-Up_Wide",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_wide_push_up/3.webp",
+   "bytes": 18572,
+   "w": 480,
+   "h": 720,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Push-Up_Wide",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_decline_push_up": [
+  {
+   "file": "ex/ex_decline_push_up/1.webp",
+   "bytes": 18986,
+   "w": 900,
+   "h": 250,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_incline_push_up": [
+  {
+   "file": "ex/ex_incline_push_up/1.webp",
+   "bytes": 25938,
+   "w": 900,
+   "h": 455,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_knee_push_up": [
+  {
+   "file": "ex/ex_knee_push_up/1.webp",
+   "bytes": 20918,
+   "w": 900,
+   "h": 310,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_floor_press": [
+  {
+   "file": "ex/ex_floor_press/1.webp",
+   "bytes": 28636,
+   "w": 900,
+   "h": 357,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_floor_press/2.webp",
+   "bytes": 25820,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Floor_Press",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_floor_press/3.webp",
+   "bytes": 25906,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Floor_Press",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_decline_db_press": [
+  {
+   "file": "ex/ex_decline_db_press/1.webp",
+   "bytes": 38976,
+   "w": 900,
+   "h": 455,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_decline_db_press/2.webp",
+   "bytes": 23518,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Decline_Dumbbell_Bench_Press",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_decline_db_press/3.webp",
+   "bytes": 24022,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Decline_Dumbbell_Bench_Press",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_db_squeeze_press": [
+  {
+   "file": "ex/ex_db_squeeze_press/1.webp",
+   "bytes": 36938,
+   "w": 900,
+   "h": 553,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_db_squeeze_press/2.webp",
+   "bytes": 54820,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Bench_Press_with_Neutral_Grip",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_squeeze_press/3.webp",
+   "bytes": 53602,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Bench_Press_with_Neutral_Grip",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_svend_press": [
+  {
+   "file": "ex/ex_svend_press/1.webp",
+   "bytes": 26134,
+   "w": 830,
+   "h": 679,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_svend_press/2.webp",
+   "bytes": 33974,
+   "w": 480,
+   "h": 720,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Svend_Press",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_svend_press/3.webp",
+   "bytes": 31944,
+   "w": 480,
+   "h": 720,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Svend_Press",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_machine_incline_press": [
+  {
+   "file": "ex/ex_machine_incline_press/1.webp",
+   "bytes": 57134,
+   "w": 900,
+   "h": 530,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_single_arm_cable_press": [
+  {
+   "file": "ex/ex_single_arm_cable_press/1.webp",
+   "bytes": 29366,
+   "w": 900,
+   "h": 592,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_landmine_press": [
+  {
+   "file": "ex/ex_landmine_press/1.webp",
+   "bytes": 29974,
+   "w": 900,
+   "h": 536,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_push_press": [
+  {
+   "file": "ex/ex_push_press/1.webp",
+   "bytes": 21734,
+   "w": 584,
+   "h": 684,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_kb_overhead_press": [
+  {
+   "file": "ex/ex_kb_overhead_press/1.webp",
+   "bytes": 26898,
+   "w": 615,
+   "h": 681,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_barbell_front_raise": [
+  {
+   "file": "ex/ex_barbell_front_raise/1.webp",
+   "bytes": 28296,
+   "w": 749,
+   "h": 671,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_plate_front_raise": [
+  {
+   "file": "ex/ex_plate_front_raise/1.webp",
+   "bytes": 31796,
+   "w": 682,
+   "h": 673,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_plate_front_raise/2.webp",
+   "bytes": 25238,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Front_Plate_Raise",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_plate_front_raise/3.webp",
+   "bytes": 24984,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Front_Plate_Raise",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_cable_front_raise": [
+  {
+   "file": "ex/ex_cable_front_raise/1.webp",
+   "bytes": 35616,
+   "w": 900,
+   "h": 658,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_lateral_raise_machine": [
+  {
+   "file": "ex/ex_lateral_raise_machine/1.webp",
+   "bytes": 49782,
+   "w": 900,
+   "h": 647,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_cable_y_raise": [
+  {
+   "file": "ex/ex_cable_y_raise/1.webp",
+   "bytes": 38456,
+   "w": 900,
+   "h": 577,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_cable_upright_row": [
+  {
+   "file": "ex/ex_cable_upright_row/1.webp",
+   "bytes": 38414,
+   "w": 884,
+   "h": 686,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_band_pull_apart": [
+  {
+   "file": "ex/ex_band_pull_apart/1.webp",
+   "bytes": 33122,
+   "w": 821,
+   "h": 680,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_cable_external_rotation": [
+  {
+   "file": "ex/ex_cable_external_rotation/1.webp",
+   "bytes": 39018,
+   "w": 895,
+   "h": 679,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_cable_external_rotation/2.webp",
+   "bytes": 50786,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/External_Rotation_with_Cable",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_cable_external_rotation/3.webp",
+   "bytes": 48804,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/External_Rotation_with_Cable",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_db_skull_crusher": [
+  {
+   "file": "ex/ex_db_skull_crusher/1.webp",
+   "bytes": 26426,
+   "w": 900,
+   "h": 437,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_db_skull_crusher/2.webp",
+   "bytes": 32912,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Dumbbell_Tricep_Extension",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_skull_crusher/3.webp",
+   "bytes": 32688,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Lying_Dumbbell_Tricep_Extension",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_jm_press": [
+  {
+   "file": "ex/ex_jm_press/1.webp",
+   "bytes": 36326,
+   "w": 900,
+   "h": 509,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_jm_press/2.webp",
+   "bytes": 34890,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/JM_Press",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_jm_press/3.webp",
+   "bytes": 34786,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/JM_Press",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_single_arm_cable_pushdown": [
+  {
+   "file": "ex/ex_single_arm_cable_pushdown/1.webp",
+   "bytes": 36176,
+   "w": 893,
+   "h": 688,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_single_arm_cable_pushdown/2.webp",
+   "bytes": 28432,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_One_Arm_Tricep_Extension",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_single_arm_cable_pushdown/3.webp",
+   "bytes": 27346,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_One_Arm_Tricep_Extension",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_reverse_grip_pushdown": [
+  {
+   "file": "ex/ex_reverse_grip_pushdown/1.webp",
+   "bytes": 35664,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Grip_Triceps_Pushdown",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_reverse_grip_pushdown/2.webp",
+   "bytes": 34630,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Grip_Triceps_Pushdown",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_overhead_ez_extension": [
+  {
+   "file": "ex/ex_overhead_ez_extension/1.webp",
+   "bytes": 27428,
+   "w": 703,
+   "h": 688,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_overhead_ez_extension/2.webp",
+   "bytes": 22756,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Overhead_Barbell_Triceps_Extension",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_overhead_ez_extension/3.webp",
+   "bytes": 23400,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Overhead_Barbell_Triceps_Extension",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_dip_machine": [
+  {
+   "file": "ex/ex_dip_machine/1.webp",
+   "bytes": 50388,
+   "w": 900,
+   "h": 555,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_dip_machine/2.webp",
+   "bytes": 40066,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dip_Machine",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_dip_machine/3.webp",
+   "bytes": 42256,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dip_Machine",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_band_pushdown": [
+  {
+   "file": "ex/ex_band_pushdown/1.webp",
+   "bytes": 32998,
+   "w": 759,
+   "h": 687,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_db_overhead_triceps_single": [
+  {
+   "file": "ex/ex_db_overhead_triceps_single/1.webp",
+   "bytes": 25598,
+   "w": 564,
+   "h": 688,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_db_overhead_triceps_single/2.webp",
+   "bytes": 22598,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_One-Arm_Triceps_Extension",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_overhead_triceps_single/3.webp",
+   "bytes": 19482,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_One-Arm_Triceps_Extension",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_dead_hang": [
+  {
+   "file": "ex/ex_dead_hang/1.webp",
+   "bytes": 15106,
+   "w": 450,
+   "h": 688,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_band_assisted_pull_up": [
+  {
+   "file": "ex/ex_band_assisted_pull_up/1.webp",
+   "bytes": 24186,
+   "w": 480,
+   "h": 720,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Band_Assisted_Pull-Up",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_band_assisted_pull_up/2.webp",
+   "bytes": 25846,
+   "w": 480,
+   "h": 720,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Band_Assisted_Pull-Up",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_scapular_pull_up": [
+  {
+   "file": "ex/ex_scapular_pull_up/1.webp",
+   "bytes": 26602,
+   "w": 810,
+   "h": 674,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_scapular_pull_up/2.webp",
+   "bytes": 35564,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Scapular_Pull-Up",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_scapular_pull_up/3.webp",
+   "bytes": 35196,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Scapular_Pull-Up",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_inverted_row": [
+  {
+   "file": "ex/ex_inverted_row/1.webp",
+   "bytes": 39620,
+   "w": 900,
+   "h": 571,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_neutral_grip_pull_up": [
+  {
+   "file": "ex/ex_neutral_grip_pull_up/1.webp",
+   "bytes": 31454,
+   "w": 831,
+   "h": 685,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_neutral_grip_pull_up/2.webp",
+   "bytes": 40434,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/V-Bar_Pullup",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_neutral_grip_pull_up/3.webp",
+   "bytes": 41982,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/V-Bar_Pullup",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_pendlay_row": [
+  {
+   "file": "ex/ex_pendlay_row/1.webp",
+   "bytes": 40220,
+   "w": 900,
+   "h": 485,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_single_arm_cable_row": [
+  {
+   "file": "ex/ex_single_arm_cable_row/1.webp",
+   "bytes": 27720,
+   "w": 900,
+   "h": 408,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_single_arm_cable_row/2.webp",
+   "bytes": 23524,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_One-arm_Cable_Pulley_Rows",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_single_arm_cable_row/3.webp",
+   "bytes": 22854,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_One-arm_Cable_Pulley_Rows",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_single_arm_lat_pulldown": [
+  {
+   "file": "ex/ex_single_arm_lat_pulldown/1.webp",
+   "bytes": 34916,
+   "w": 701,
+   "h": 670,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_single_arm_lat_pulldown/2.webp",
+   "bytes": 27828,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One_Arm_Lat_Pulldown",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_single_arm_lat_pulldown/3.webp",
+   "bytes": 30496,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One_Arm_Lat_Pulldown",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_reverse_grip_lat_pulldown": [
+  {
+   "file": "ex/ex_reverse_grip_lat_pulldown/1.webp",
+   "bytes": 45146,
+   "w": 814,
+   "h": 677,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_reverse_grip_lat_pulldown/2.webp",
+   "bytes": 30800,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Underhand_Cable_Pulldowns",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_reverse_grip_lat_pulldown/3.webp",
+   "bytes": 30176,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Underhand_Cable_Pulldowns",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_bent_over_db_row": [
+  {
+   "file": "ex/ex_bent_over_db_row/1.webp",
+   "bytes": 40380,
+   "w": 889,
+   "h": 639,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_bent_over_db_row/2.webp",
+   "bytes": 33404,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bent_Over_Two-Dumbbell_Row",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_bent_over_db_row/3.webp",
+   "bytes": 32378,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bent_Over_Two-Dumbbell_Row",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_high_row_machine": [
+  {
+   "file": "ex/ex_high_row_machine/1.webp",
+   "bytes": 53154,
+   "w": 900,
+   "h": 611,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_high_row_machine/2.webp",
+   "bytes": 33206,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leverage_High_Row",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_high_row_machine/3.webp",
+   "bytes": 37564,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Leverage_High_Row",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_smith_row": [
+  {
+   "file": "ex/ex_smith_row/1.webp",
+   "bytes": 51322,
+   "w": 900,
+   "h": 603,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_smith_row/2.webp",
+   "bytes": 38868,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Smith_Machine_Bent_Over_Row",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_smith_row/3.webp",
+   "bytes": 38918,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Smith_Machine_Bent_Over_Row",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_band_row": [
+  {
+   "file": "ex/ex_band_row/1.webp",
+   "bytes": 26620,
+   "w": 900,
+   "h": 353,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_cable_shrug": [
+  {
+   "file": "ex/ex_cable_shrug/1.webp",
+   "bytes": 30574,
+   "w": 834,
+   "h": 684,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_cable_shrug/2.webp",
+   "bytes": 51286,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_Shrugs",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_cable_shrug/3.webp",
+   "bytes": 52238,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_Shrugs",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_machine_shrug": [
+  {
+   "file": "ex/ex_machine_shrug/1.webp",
+   "bytes": 36214,
+   "w": 900,
+   "h": 594,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_behind_back_shrug": [
+  {
+   "file": "ex/ex_behind_back_shrug/1.webp",
+   "bytes": 30298,
+   "w": 770,
+   "h": 672,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_behind_back_shrug/2.webp",
+   "bytes": 29342,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Shrug_Behind_The_Back",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_behind_back_shrug/3.webp",
+   "bytes": 29730,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Shrug_Behind_The_Back",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_reverse_barbell_curl": [
+  {
+   "file": "ex/ex_reverse_barbell_curl/1.webp",
+   "bytes": 32230,
+   "w": 715,
+   "h": 680,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_reverse_barbell_curl/2.webp",
+   "bytes": 23884,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Barbell_Curl",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_reverse_barbell_curl/3.webp",
+   "bytes": 24396,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Barbell_Curl",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_ez_bar_curl": [
+  {
+   "file": "ex/ex_ez_bar_curl/1.webp",
+   "bytes": 39304,
+   "w": 886,
+   "h": 684,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_ez_bar_curl/2.webp",
+   "bytes": 29532,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/EZ-Bar_Curl",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_ez_bar_curl/3.webp",
+   "bytes": 30528,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/EZ-Bar_Curl",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_incline_db_curl": [
+  {
+   "file": "ex/ex_incline_db_curl/1.webp",
+   "bytes": 46346,
+   "w": 900,
+   "h": 549,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_incline_db_curl/2.webp",
+   "bytes": 23252,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Dumbbell_Curl",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_incline_db_curl/3.webp",
+   "bytes": 23894,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Incline_Dumbbell_Curl",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_spider_curl": [
+  {
+   "file": "ex/ex_spider_curl/1.webp",
+   "bytes": 43718,
+   "w": 900,
+   "h": 478,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_spider_curl/2.webp",
+   "bytes": 20788,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Spider_Curl",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_spider_curl/3.webp",
+   "bytes": 20384,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Spider_Curl",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_zottman_curl": [
+  {
+   "file": "ex/ex_zottman_curl/1.webp",
+   "bytes": 29598,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Zottman_Curl",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_zottman_curl/2.webp",
+   "bytes": 29342,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Zottman_Curl",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_cable_preacher_curl": [
+  {
+   "file": "ex/ex_cable_preacher_curl/1.webp",
+   "bytes": 46914,
+   "w": 900,
+   "h": 589,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_cable_preacher_curl/2.webp",
+   "bytes": 45892,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_Preacher_Curl",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_cable_preacher_curl/3.webp",
+   "bytes": 45792,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cable_Preacher_Curl",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_db_preacher_curl": [
+  {
+   "file": "ex/ex_db_preacher_curl/1.webp",
+   "bytes": 43680,
+   "w": 900,
+   "h": 621,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_db_preacher_curl/2.webp",
+   "bytes": 21102,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One_Arm_Dumbbell_Preacher_Curl",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_preacher_curl/3.webp",
+   "bytes": 21354,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/One_Arm_Dumbbell_Preacher_Curl",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_barbell_curl_21s": [
+  {
+   "file": "ex/ex_barbell_curl_21s/1.webp",
+   "bytes": 39330,
+   "w": 900,
+   "h": 598,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_barbell_curl_21s/2.webp",
+   "bytes": 23208,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Curl",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_barbell_curl_21s/3.webp",
+   "bytes": 24560,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Curl",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_band_curl": [
+  {
+   "file": "ex/ex_band_curl/1.webp",
+   "bytes": 37668,
+   "w": 742,
+   "h": 681,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_machine_biceps_curl": [
+  {
+   "file": "ex/ex_machine_biceps_curl/1.webp",
+   "bytes": 57574,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Machine_Bicep_Curl",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_machine_biceps_curl/2.webp",
+   "bytes": 58264,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Machine_Bicep_Curl",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_high_cable_curl": [
+  {
+   "file": "ex/ex_high_cable_curl/1.webp",
+   "bytes": 39100,
+   "w": 900,
+   "h": 549,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_wrist_roller": [
+  {
+   "file": "ex/ex_wrist_roller/1.webp",
+   "bytes": 35682,
+   "w": 880,
+   "h": 677,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_wrist_roller/2.webp",
+   "bytes": 28740,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wrist_Roller",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_wrist_roller/3.webp",
+   "bytes": 28770,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Wrist_Roller",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_plate_pinch": [
+  {
+   "file": "ex/ex_plate_pinch/1.webp",
+   "bytes": 17546,
+   "w": 277,
+   "h": 687,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_plate_pinch/2.webp",
+   "bytes": 22954,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Plate_Pinch",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_plate_pinch/3.webp",
+   "bytes": 24312,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Plate_Pinch",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_hand_gripper": [
+  {
+   "file": "ex/ex_hand_gripper/1.webp",
+   "bytes": 43434,
+   "w": 900,
+   "h": 677,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_barbell_wrist_curl": [
+  {
+   "file": "ex/ex_barbell_wrist_curl/1.webp",
+   "bytes": 23654,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Palm-Up_Barbell_Wrist_Curl",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_barbell_wrist_curl/2.webp",
+   "bytes": 23252,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Palm-Up_Barbell_Wrist_Curl",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_behind_back_wrist_curl": [
+  {
+   "file": "ex/ex_behind_back_wrist_curl/1.webp",
+   "bytes": 30202,
+   "w": 900,
+   "h": 599,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_behind_back_wrist_curl/2.webp",
+   "bytes": 22702,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_behind_back_wrist_curl/3.webp",
+   "bytes": 22460,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Palms-Up_Barbell_Behind_The_Back_Wrist_Curl",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_neck_harness_extension": [
+  {
+   "file": "ex/ex_neck_harness_extension/1.webp",
+   "bytes": 38738,
+   "w": 900,
+   "h": 568,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_neck_harness_extension/2.webp",
+   "bytes": 29968,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Head_Harness_Neck_Resistance",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_neck_harness_extension/3.webp",
+   "bytes": 26580,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Seated_Head_Harness_Neck_Resistance",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_wall_sit": [
+  {
+   "file": "ex/ex_wall_sit/1.webp",
+   "bytes": 33362,
+   "w": 770,
+   "h": 680,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_sumo_squat_db": [
+  {
+   "file": "ex/ex_sumo_squat_db/1.webp",
+   "bytes": 32762,
+   "w": 900,
+   "h": 631,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_sumo_squat_db/2.webp",
+   "bytes": 23248,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Plie_Dumbbell_Squat",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_sumo_squat_db/3.webp",
+   "bytes": 22460,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Plie_Dumbbell_Squat",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_split_squat_db": [
+  {
+   "file": "ex/ex_split_squat_db/1.webp",
+   "bytes": 29940,
+   "w": 900,
+   "h": 636,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_reverse_lunge_db": [
+  {
+   "file": "ex/ex_reverse_lunge_db/1.webp",
+   "bytes": 30468,
+   "w": 800,
+   "h": 669,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_reverse_lunge_db/2.webp",
+   "bytes": 20884,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Rear_Lunge",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_reverse_lunge_db/3.webp",
+   "bytes": 20152,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Rear_Lunge",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_lateral_lunge": [
+  {
+   "file": "ex/ex_lateral_lunge/1.webp",
+   "bytes": 32738,
+   "w": 887,
+   "h": 658,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_curtsy_lunge": [
+  {
+   "file": "ex/ex_curtsy_lunge/1.webp",
+   "bytes": 17748,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Crossover_Reverse_Lunge",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_curtsy_lunge/2.webp",
+   "bytes": 16494,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Crossover_Reverse_Lunge",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_barbell_lunge": [
+  {
+   "file": "ex/ex_barbell_lunge/1.webp",
+   "bytes": 34702,
+   "w": 900,
+   "h": 611,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_barbell_lunge/2.webp",
+   "bytes": 29716,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Lunge",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_barbell_lunge/3.webp",
+   "bytes": 34486,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Barbell_Lunge",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_smith_lunge": [
+  {
+   "file": "ex/ex_smith_lunge/1.webp",
+   "bytes": 42574,
+   "w": 900,
+   "h": 589,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_pistol_squat": [
+  {
+   "file": "ex/ex_pistol_squat/1.webp",
+   "bytes": 29802,
+   "w": 900,
+   "h": 623,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_pistol_squat/2.webp",
+   "bytes": 18748,
+   "w": 720,
+   "h": 482,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kettlebell_Pistol_Squat",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_pistol_squat/3.webp",
+   "bytes": 19742,
+   "w": 720,
+   "h": 482,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kettlebell_Pistol_Squat",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_sissy_squat": [
+  {
+   "file": "ex/ex_sissy_squat/1.webp",
+   "bytes": 34030,
+   "w": 890,
+   "h": 667,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_reverse_hack_squat": [
+  {
+   "file": "ex/ex_reverse_hack_squat/1.webp",
+   "bytes": 52688,
+   "w": 900,
+   "h": 610,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_single_leg_press": [
+  {
+   "file": "ex/ex_single_leg_press/1.webp",
+   "bytes": 48578,
+   "w": 900,
+   "h": 442,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_jump_squat": [
+  {
+   "file": "ex/ex_jump_squat/1.webp",
+   "bytes": 25630,
+   "w": 681,
+   "h": 677,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_jump_squat/2.webp",
+   "bytes": 34048,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Freehand_Jump_Squat",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_jump_squat/3.webp",
+   "bytes": 31900,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Freehand_Jump_Squat",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_jump_lunge": [
+  {
+   "file": "ex/ex_jump_lunge/1.webp",
+   "bytes": 27208,
+   "w": 900,
+   "h": 590,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_jump_lunge/2.webp",
+   "bytes": 15348,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Split_Jump",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_jump_lunge/3.webp",
+   "bytes": 16162,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Split_Jump",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_box_jump": [
+  {
+   "file": "ex/ex_box_jump/1.webp",
+   "bytes": 27544,
+   "w": 900,
+   "h": 606,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_box_jump/2.webp",
+   "bytes": 33370,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Front_Box_Jump",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_box_jump/3.webp",
+   "bytes": 32898,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Front_Box_Jump",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_trap_bar_deadlift": [
+  {
+   "file": "ex/ex_trap_bar_deadlift/1.webp",
+   "bytes": 38730,
+   "w": 900,
+   "h": 630,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_trap_bar_deadlift/2.webp",
+   "bytes": 29128,
+   "w": 480,
+   "h": 720,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Trap_Bar_Deadlift",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_trap_bar_deadlift/3.webp",
+   "bytes": 21946,
+   "w": 480,
+   "h": 720,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Trap_Bar_Deadlift",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_db_rdl": [
+  {
+   "file": "ex/ex_db_rdl/1.webp",
+   "bytes": 30918,
+   "w": 681,
+   "h": 688,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_db_rdl/2.webp",
+   "bytes": 30744,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Stiff-Legged_Dumbbell_Deadlift",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_rdl/3.webp",
+   "bytes": 32916,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Stiff-Legged_Dumbbell_Deadlift",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_single_leg_rdl": [
+  {
+   "file": "ex/ex_single_leg_rdl/1.webp",
+   "bytes": 26624,
+   "w": 900,
+   "h": 626,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_kb_swing": [
+  {
+   "file": "ex/ex_kb_swing/1.webp",
+   "bytes": 30078,
+   "w": 871,
+   "h": 657,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_cable_pull_through": [
+  {
+   "file": "ex/ex_cable_pull_through/1.webp",
+   "bytes": 35272,
+   "w": 900,
+   "h": 658,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_cable_pull_through/2.webp",
+   "bytes": 22084,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Pull_Through",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_cable_pull_through/3.webp",
+   "bytes": 17562,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Pull_Through",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_nordic_curl": [
+  {
+   "file": "ex/ex_nordic_curl/1.webp",
+   "bytes": 25498,
+   "w": 900,
+   "h": 508,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_nordic_curl/2.webp",
+   "bytes": 31968,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Natural_Glute_Ham_Raise",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_nordic_curl/3.webp",
+   "bytes": 32372,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Natural_Glute_Ham_Raise",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_glute_bridge": [
+  {
+   "file": "ex/ex_glute_bridge/1.webp",
+   "bytes": 17962,
+   "w": 900,
+   "h": 207,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_glute_bridge/2.webp",
+   "bytes": 26820,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Butt_Lift_Bridge",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_glute_bridge/3.webp",
+   "bytes": 27604,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Butt_Lift_Bridge",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_single_leg_glute_bridge": [
+  {
+   "file": "ex/ex_single_leg_glute_bridge/1.webp",
+   "bytes": 20436,
+   "w": 900,
+   "h": 308,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_single_leg_glute_bridge/2.webp",
+   "bytes": 30074,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Single_Leg_Glute_Bridge",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_single_leg_glute_bridge/3.webp",
+   "bytes": 31238,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Single_Leg_Glute_Bridge",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_hip_thrust_machine": [
+  {
+   "file": "ex/ex_hip_thrust_machine/1.webp",
+   "bytes": 38132,
+   "w": 900,
+   "h": 539,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_glute_kickback_machine": [
+  {
+   "file": "ex/ex_glute_kickback_machine/1.webp",
+   "bytes": 47710,
+   "w": 900,
+   "h": 557,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_donkey_kick": [
+  {
+   "file": "ex/ex_donkey_kick/1.webp",
+   "bytes": 21936,
+   "w": 900,
+   "h": 328,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_cable_hip_abduction": [
+  {
+   "file": "ex/ex_cable_hip_abduction/1.webp",
+   "bytes": 31506,
+   "w": 900,
+   "h": 596,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_hip_adduction": [
+  {
+   "file": "ex/ex_hip_adduction/1.webp",
+   "bytes": 53972,
+   "w": 900,
+   "h": 602,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_hip_adduction/2.webp",
+   "bytes": 38446,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Thigh_Adductor",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_hip_adduction/3.webp",
+   "bytes": 36636,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Thigh_Adductor",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_band_lateral_walk": [
+  {
+   "file": "ex/ex_band_lateral_walk/1.webp",
+   "bytes": 35708,
+   "w": 836,
+   "h": 636,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_clamshell": [
+  {
+   "file": "ex/ex_clamshell/1.webp",
+   "bytes": 22122,
+   "w": 900,
+   "h": 222,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_donkey_calf_raise": [
+  {
+   "file": "ex/ex_donkey_calf_raise/1.webp",
+   "bytes": 34932,
+   "w": 900,
+   "h": 542,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_donkey_calf_raise/2.webp",
+   "bytes": 44566,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Donkey_Calf_Raises",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_donkey_calf_raise/3.webp",
+   "bytes": 45208,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Donkey_Calf_Raises",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_single_leg_calf_raise": [
+  {
+   "file": "ex/ex_single_leg_calf_raise/1.webp",
+   "bytes": 27590,
+   "w": 716,
+   "h": 688,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_cable_side_bend": [
+  {
+   "file": "ex/ex_cable_side_bend/1.webp",
+   "bytes": 63392,
+   "w": 1024,
+   "h": 660,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_db_side_bend": [
+  {
+   "file": "ex/ex_db_side_bend/1.webp",
+   "bytes": 34218,
+   "w": 732,
+   "h": 662,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_db_side_bend/2.webp",
+   "bytes": 21896,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Side_Bend",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_side_bend/3.webp",
+   "bytes": 22808,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Side_Bend",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_cable_woodchopper": [
+  {
+   "file": "ex/ex_cable_woodchopper/1.webp",
+   "bytes": 33566,
+   "w": 900,
+   "h": 593,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_cable_woodchopper/2.webp",
+   "bytes": 27230,
+   "w": 480,
+   "h": 720,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Cable_Wood_Chop",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_cable_woodchopper/3.webp",
+   "bytes": 28802,
+   "w": 480,
+   "h": 720,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Standing_Cable_Wood_Chop",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_landmine_rotation": [
+  {
+   "file": "ex/ex_landmine_rotation/1.webp",
+   "bytes": 35232,
+   "w": 900,
+   "h": 628,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_hollow_hold": [
+  {
+   "file": "ex/ex_hollow_hold/1.webp",
+   "bytes": 16046,
+   "w": 900,
+   "h": 317,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_dead_bug": [
+  {
+   "file": "ex/ex_dead_bug/1.webp",
+   "bytes": 19084,
+   "w": 900,
+   "h": 262,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_dead_bug/2.webp",
+   "bytes": 8498,
+   "w": 720,
+   "h": 405,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dead_Bug",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_dead_bug/3.webp",
+   "bytes": 9220,
+   "w": 720,
+   "h": 405,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dead_Bug",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_bird_dog": [
+  {
+   "file": "ex/ex_bird_dog/1.webp",
+   "bytes": 16646,
+   "w": 900,
+   "h": 252,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_superman": [
+  {
+   "file": "ex/ex_superman/1.webp",
+   "bytes": 11702,
+   "w": 900,
+   "h": 156,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_superman/2.webp",
+   "bytes": 28958,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Superman",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_superman/3.webp",
+   "bytes": 32830,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Superman",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_v_up": [
+  {
+   "file": "ex/ex_v_up/1.webp",
+   "bytes": 18774,
+   "w": 900,
+   "h": 328,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_v_up/2.webp",
+   "bytes": 33594,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Jackknife_Sit-Up",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_v_up/3.webp",
+   "bytes": 31930,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Jackknife_Sit-Up",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_toe_touch_crunch": [
+  {
+   "file": "ex/ex_toe_touch_crunch/1.webp",
+   "bytes": 26290,
+   "w": 900,
+   "h": 487,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_toe_touch_crunch/2.webp",
+   "bytes": 33356,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Toe_Touchers",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_toe_touch_crunch/3.webp",
+   "bytes": 32272,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Toe_Touchers",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_bicycle_crunch": [
+  {
+   "file": "ex/ex_bicycle_crunch/1.webp",
+   "bytes": 21164,
+   "w": 900,
+   "h": 239,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_bicycle_crunch/2.webp",
+   "bytes": 27538,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Air_Bike",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_bicycle_crunch/3.webp",
+   "bytes": 29002,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Air_Bike",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_scissor_kicks": [
+  {
+   "file": "ex/ex_scissor_kicks/1.webp",
+   "bytes": 15152,
+   "w": 900,
+   "h": 259,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_scissor_kicks/2.webp",
+   "bytes": 34846,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Scissor_Kick",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_scissor_kicks/3.webp",
+   "bytes": 34666,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Scissor_Kick",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_reverse_crunch": [
+  {
+   "file": "ex/ex_reverse_crunch/1.webp",
+   "bytes": 18540,
+   "w": 900,
+   "h": 286,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_reverse_crunch/2.webp",
+   "bytes": 30874,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Crunch",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_reverse_crunch/3.webp",
+   "bytes": 25510,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Reverse_Crunch",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_l_sit": [
+  {
+   "file": "ex/ex_l_sit/1.webp",
+   "bytes": 18960,
+   "w": 607,
+   "h": 680,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_dragon_flag": [
+  {
+   "file": "ex/ex_dragon_flag/1.webp",
+   "bytes": 20838,
+   "w": 900,
+   "h": 590,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_mountain_climber": [
+  {
+   "file": "ex/ex_mountain_climber/1.webp",
+   "bytes": 18718,
+   "w": 900,
+   "h": 273,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_plank_shoulder_tap": [
+  {
+   "file": "ex/ex_plank_shoulder_tap/1.webp",
+   "bytes": 27010,
+   "w": 900,
+   "h": 387,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_windshield_wiper": [
+  {
+   "file": "ex/ex_windshield_wiper/1.webp",
+   "bytes": 22926,
+   "w": 900,
+   "h": 468,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_turkish_get_up": [
+  {
+   "file": "ex/ex_turkish_get_up/1.webp",
+   "bytes": 27440,
+   "w": 900,
+   "h": 576,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_turkish_get_up/2.webp",
+   "bytes": 21652,
+   "w": 720,
+   "h": 482,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kettlebell_Turkish_Get-Up_Lunge_style",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_turkish_get_up/3.webp",
+   "bytes": 21336,
+   "w": 720,
+   "h": 482,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kettlebell_Turkish_Get-Up_Lunge_style",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_suitcase_carry": [
+  {
+   "file": "ex/ex_suitcase_carry/1.webp",
+   "bytes": 17080,
+   "w": 285,
+   "h": 686,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_45_side_bend": [
+  {
+   "file": "ex/ex_45_side_bend/1.webp",
+   "bytes": 43104,
+   "w": 900,
+   "h": 574,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_burpee": [
+  {
+   "file": "ex/ex_burpee/1.webp",
+   "bytes": 22404,
+   "w": 886,
+   "h": 658,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_jump_rope": [
+  {
+   "file": "ex/ex_jump_rope/1.webp",
+   "bytes": 30218,
+   "w": 770,
+   "h": 675,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_jump_rope/2.webp",
+   "bytes": 40480,
+   "w": 720,
+   "h": 482,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rope_Jumping",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_jump_rope/3.webp",
+   "bytes": 41944,
+   "w": 720,
+   "h": 482,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Rope_Jumping",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_battle_ropes": [
+  {
+   "file": "ex/ex_battle_ropes/1.webp",
+   "bytes": 36122,
+   "w": 900,
+   "h": 474,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_skater_jumps": [
+  {
+   "file": "ex/ex_skater_jumps/1.webp",
+   "bytes": 32504,
+   "w": 900,
+   "h": 550,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_bear_crawl": [
+  {
+   "file": "ex/ex_bear_crawl/1.webp",
+   "bytes": 25996,
+   "w": 900,
+   "h": 336,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_butt_kicks": [
+  {
+   "file": "ex/ex_butt_kicks/1.webp",
+   "bytes": 26882,
+   "w": 680,
+   "h": 671,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_doorway_chest_stretch": [
+  {
+   "file": "ex/ex_doorway_chest_stretch/1.webp",
+   "bytes": 16320,
+   "w": 388,
+   "h": 685,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_kneeling_hip_flexor_stretch": [
+  {
+   "file": "ex/ex_kneeling_hip_flexor_stretch/1.webp",
+   "bytes": 19118,
+   "w": 551,
+   "h": 649,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_kneeling_hip_flexor_stretch/2.webp",
+   "bytes": 15516,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kneeling_Hip_Flexor",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_kneeling_hip_flexor_stretch/3.webp",
+   "bytes": 15596,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Kneeling_Hip_Flexor",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_hamstring_stretch": [
+  {
+   "file": "ex/ex_hamstring_stretch/1.webp",
+   "bytes": 16216,
+   "w": 384,
+   "h": 638,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_standing_quad_stretch": [
+  {
+   "file": "ex/ex_standing_quad_stretch/1.webp",
+   "bytes": 15148,
+   "w": 377,
+   "h": 681,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_couch_stretch": [
+  {
+   "file": "ex/ex_couch_stretch/1.webp",
+   "bytes": 21840,
+   "w": 539,
+   "h": 656,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_calf_stretch": [
+  {
+   "file": "ex/ex_calf_stretch/1.webp",
+   "bytes": 17016,
+   "w": 475,
+   "h": 673,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_calf_stretch/2.webp",
+   "bytes": 17722,
+   "w": 720,
+   "h": 482,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Calf_Stretch_Hands_Against_Wall",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_calf_stretch/3.webp",
+   "bytes": 17020,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Calf_Stretch_Hands_Against_Wall",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_lat_stretch": [
+  {
+   "file": "ex/ex_lat_stretch/1.webp",
+   "bytes": 24498,
+   "w": 900,
+   "h": 486,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_triceps_stretch": [
+  {
+   "file": "ex/ex_triceps_stretch/1.webp",
+   "bytes": 15350,
+   "w": 222,
+   "h": 679,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_cross_body_shoulder_stretch": [
+  {
+   "file": "ex/ex_cross_body_shoulder_stretch/1.webp",
+   "bytes": 15680,
+   "w": 364,
+   "h": 688,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_cross_body_shoulder_stretch/2.webp",
+   "bytes": 11228,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Shoulder_Stretch",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_cross_body_shoulder_stretch/3.webp",
+   "bytes": 10710,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Shoulder_Stretch",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_pigeon_stretch": [
+  {
+   "file": "ex/ex_pigeon_stretch/1.webp",
+   "bytes": 22930,
+   "w": 900,
+   "h": 420,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_figure_four_stretch": [
+  {
+   "file": "ex/ex_figure_four_stretch/1.webp",
+   "bytes": 23522,
+   "w": 900,
+   "h": 494,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_butterfly_stretch": [
+  {
+   "file": "ex/ex_butterfly_stretch/1.webp",
+   "bytes": 28392,
+   "w": 686,
+   "h": 655,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_cat_cow": [
+  {
+   "file": "ex/ex_cat_cow/1.webp",
+   "bytes": 23558,
+   "w": 900,
+   "h": 373,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_cat_cow/2.webp",
+   "bytes": 18986,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cat_Stretch",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_cat_cow/3.webp",
+   "bytes": 18698,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Cat_Stretch",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_cobra_stretch": [
+  {
+   "file": "ex/ex_cobra_stretch/1.webp",
+   "bytes": 19634,
+   "w": 900,
+   "h": 458,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_open_book_stretch": [
+  {
+   "file": "ex/ex_open_book_stretch/1.webp",
+   "bytes": 22458,
+   "w": 670,
+   "h": 610,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_worlds_greatest_stretch": [
+  {
+   "file": "ex/ex_worlds_greatest_stretch/1.webp",
+   "bytes": 20488,
+   "w": 603,
+   "h": 655,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_worlds_greatest_stretch/2.webp",
+   "bytes": 17310,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Worlds_Greatest_Stretch",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_worlds_greatest_stretch/3.webp",
+   "bytes": 18458,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Worlds_Greatest_Stretch",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_hip_90_90": [
+  {
+   "file": "ex/ex_hip_90_90/1.webp",
+   "bytes": 26830,
+   "w": 679,
+   "h": 630,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_neck_side_stretch": [
+  {
+   "file": "ex/ex_neck_side_stretch/1.webp",
+   "bytes": 16676,
+   "w": 298,
+   "h": 688,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_neck_side_stretch/2.webp",
+   "bytes": 12928,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Side_Neck_Stretch",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_neck_side_stretch/3.webp",
+   "bytes": 11366,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Side_Neck_Stretch",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_wrist_stretch": [
+  {
+   "file": "ex/ex_wrist_stretch/1.webp",
+   "bytes": 28842,
+   "w": 743,
+   "h": 682,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_downward_dog": [
+  {
+   "file": "ex/ex_downward_dog/1.webp",
+   "bytes": 22522,
+   "w": 858,
+   "h": 561,
+   "author": "Vazne (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://github.com/MehrdadNsr/vazne-media",
+   "wger_exercise": null,
+   "ai": true
+  }
  ]
 }
