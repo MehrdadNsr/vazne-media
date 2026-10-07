@@ -17,6 +17,10 @@ App builds pin a commit hash (e.g. `@c3842c7…`), so files at that URL never ch
 - [free-exercise-db](https://github.com/yuhonas/free-exercise-db): photos published as public domain
   (Unlicense).
 - Drawings made for Vazne (AI-generated) — CC BY-SA 4.0.
+- **Exercise data by RepDB ([repdb.co](https://repdb.co/))**: flat illustrations from the RepDB free tier
+  ([licence](https://github.com/RepDB/exercise-dataset/blob/main/LICENSE-DATA.md): in-app use with this
+  attribution; not a redistribution of their dataset — only the few files Vazne shows, for the app).
+- Photos by Eric Astrauskas ([Flickr](https://www.flickr.com/photos/personaltrainertoronto/)) — CC BY 2.0.
 
 Every file's author, licence and source is in `ATTRIBUTION.md`.
 

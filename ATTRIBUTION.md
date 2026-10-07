@@ -513,3 +513,11 @@ contributors. Images whose source pointed to a commercial site, or that carried 
 | `ex/ex_neck_side_stretch/3.webp` | free-exercise-db | [Public domain (Unlicense)](https://unlicense.org/) | [Side_Neck_Stretch](https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Side_Neck_Stretch) |
 | `ex/ex_wrist_stretch/1.webp` | Vazne (AI-generated) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | drawn for Vazne |
 | `ex/ex_downward_dog/1.webp` | Vazne (AI-generated) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | drawn for Vazne |
+| `ex/ex_lat_pulldown_neutral/1.webp` | RepDB (repdb.co) | [RepDB free tier (attribution)](https://github.com/RepDB/exercise-dataset/blob/main/LICENSE-DATA.md) | [repdb.co](https://repdb.co/) |
+| `ex/ex_lat_pulldown_neutral/2.webp` | RepDB (repdb.co) | [RepDB free tier (attribution)](https://github.com/RepDB/exercise-dataset/blob/main/LICENSE-DATA.md) | [repdb.co](https://repdb.co/) |
+| `ex/ex_cable_kickback/1.webp` | RepDB (repdb.co) | [RepDB free tier (attribution)](https://github.com/RepDB/exercise-dataset/blob/main/LICENSE-DATA.md) | [repdb.co](https://repdb.co/) |
+| `ex/ex_cable_kickback/2.webp` | RepDB (repdb.co) | [RepDB free tier (attribution)](https://github.com/RepDB/exercise-dataset/blob/main/LICENSE-DATA.md) | [repdb.co](https://repdb.co/) |
+| `ex/ex_bayesian_curl/1.webp` | Eric Astrauskas | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [www.flickr.com](https://www.flickr.com/photos/personaltrainertoronto/43893699911/) |
+| `ex/ex_bayesian_curl/2.webp` | Eric Astrauskas | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) | [www.flickr.com](https://www.flickr.com/photos/personaltrainertoronto/43893698871/) |
+| `ex/ex_db_wrist_rotation/1.webp` | free-exercise-db | [Public domain (Unlicense)](https://unlicense.org/) | [github.com](https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Lying_Supination) |
+| `ex/ex_db_wrist_rotation/2.webp` | free-exercise-db | [Public domain (Unlicense)](https://unlicense.org/) | [github.com](https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Lying_Supination) |

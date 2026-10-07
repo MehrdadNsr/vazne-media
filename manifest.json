@@ -6508,5 +6508,109 @@
    "wger_exercise": null,
    "ai": true
   }
+ ],
+ "ex_lat_pulldown_neutral": [
+  {
+   "file": "ex/ex_lat_pulldown_neutral/1.webp",
+   "bytes": 14682,
+   "w": 512,
+   "h": 512,
+   "author": "RepDB (repdb.co)",
+   "license": "RepDB free tier (attribution)",
+   "license_url": "https://github.com/RepDB/exercise-dataset/blob/main/LICENSE-DATA.md",
+   "source": "https://repdb.co/",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_lat_pulldown_neutral/2.webp",
+   "bytes": 13638,
+   "w": 512,
+   "h": 512,
+   "author": "RepDB (repdb.co)",
+   "license": "RepDB free tier (attribution)",
+   "license_url": "https://github.com/RepDB/exercise-dataset/blob/main/LICENSE-DATA.md",
+   "source": "https://repdb.co/",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_cable_kickback": [
+  {
+   "file": "ex/ex_cable_kickback/1.webp",
+   "bytes": 12134,
+   "w": 512,
+   "h": 512,
+   "author": "RepDB (repdb.co)",
+   "license": "RepDB free tier (attribution)",
+   "license_url": "https://github.com/RepDB/exercise-dataset/blob/main/LICENSE-DATA.md",
+   "source": "https://repdb.co/",
+   "wger_exercise": null,
+   "ai": true
+  },
+  {
+   "file": "ex/ex_cable_kickback/2.webp",
+   "bytes": 12658,
+   "w": 512,
+   "h": 512,
+   "author": "RepDB (repdb.co)",
+   "license": "RepDB free tier (attribution)",
+   "license_url": "https://github.com/RepDB/exercise-dataset/blob/main/LICENSE-DATA.md",
+   "source": "https://repdb.co/",
+   "wger_exercise": null,
+   "ai": true
+  }
+ ],
+ "ex_bayesian_curl": [
+  {
+   "file": "ex/ex_bayesian_curl/1.webp",
+   "bytes": 27662,
+   "w": 720,
+   "h": 540,
+   "author": "Eric Astrauskas",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "source": "https://www.flickr.com/photos/personaltrainertoronto/43893699911/",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_bayesian_curl/2.webp",
+   "bytes": 26946,
+   "w": 720,
+   "h": 540,
+   "author": "Eric Astrauskas",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0/",
+   "source": "https://www.flickr.com/photos/personaltrainertoronto/43893698871/",
+   "wger_exercise": null,
+   "ai": false
+  }
+ ],
+ "ex_db_wrist_rotation": [
+  {
+   "file": "ex/ex_db_wrist_rotation/1.webp",
+   "bytes": 27842,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Lying_Supination",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_db_wrist_rotation/2.webp",
+   "bytes": 27082,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Dumbbell_Lying_Supination",
+   "wger_exercise": null,
+   "ai": false
+  }
  ]
 }
