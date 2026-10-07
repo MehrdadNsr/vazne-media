@@ -1390,5 +1390,103 @@
    "wger_exercise": 237,
    "ai": false
   }
+ ],
+ "ex_box_squat": [
+  {
+   "file": "ex/ex_box_squat/1.webp",
+   "bytes": 27654,
+   "w": 720,
+   "h": 509,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/977/3124c091-6395-4377-96c5-56048b627ceb.png",
+   "wger_exercise": 977,
+   "ai": true
+  }
+ ],
+ "ex_childs_pose": [
+  {
+   "file": "ex/ex_childs_pose/1.webp",
+   "bytes": 13584,
+   "w": 720,
+   "h": 188,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/1002/ddf91765-8045-4087-bece-de17f33332ce.png",
+   "wger_exercise": 1002,
+   "ai": true
+  }
+ ],
+ "ex_handstand_push_up": [
+  {
+   "file": "ex/ex_handstand_push_up/1.webp",
+   "bytes": 23880,
+   "w": 720,
+   "h": 624,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/282/f6121ac9-330e-4ed7-8219-91ce246bf871.png",
+   "wger_exercise": 282,
+   "ai": true
+  }
+ ],
+ "ex_jumping_jacks": [
+  {
+   "file": "ex/ex_jumping_jacks/1.webp",
+   "bytes": 21060,
+   "w": 720,
+   "h": 554,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/320/6c9124b6-3551-47a8-9c22-20141c8b9c53.png",
+   "wger_exercise": 320,
+   "ai": true
+  }
+ ],
+ "ex_high_knees": [
+  {
+   "file": "ex/ex_high_knees/1.webp",
+   "bytes": 27350,
+   "w": 720,
+   "h": 586,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/1965/03c08a42-dedb-4a46-8d15-acaf497a35a2.png",
+   "wger_exercise": 1965,
+   "ai": true
+  }
+ ],
+ "ex_pike_push_up": [
+  {
+   "file": "ex/ex_pike_push_up/1.webp",
+   "bytes": 21492,
+   "w": 720,
+   "h": 432,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/454/447f3c17-405f-46e0-b138-65c2a8caaab0.png",
+   "wger_exercise": 454,
+   "ai": true
+  }
+ ],
+ "ex_bodyweight_squat": [
+  {
+   "file": "ex/ex_bodyweight_squat/1.webp",
+   "bytes": 23958,
+   "w": 720,
+   "h": 571,
+   "author": "wger.de (AI-generated)",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "source": "https://wger.de/media/exercise-images/1963/db285682-1ab3-4be0-ae00-5117ecce1ee6.png",
+   "wger_exercise": 1963,
+   "ai": true
+  }
  ]
 }

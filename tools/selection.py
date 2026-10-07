@@ -18,4 +18,8 @@ FINAL = {
  'ex_reverse_barbell_row':[91,92], 'ex_rack_pull':[145,146], 'ex_smith_incline_press':[107,108],
  'ex_db_upright_row':[220,221], 'ex_side_crunch':[147,148], 'ex_ab_rollout':[674], 'ex_step_up':[667],
  'ex_smith_shoulder_press':[693], 'ex_incline_cable_fly':[119,120],
+ # 2026-10-07, bank 101 -> 253: wger's own AI line drawings only (the other candidates were stock or
+ # watermarked copies, or photos of unclear origin)
+ 'ex_box_squat':[672], 'ex_childs_pose':[684], 'ex_handstand_push_up':[670], 'ex_jumping_jacks':[694],
+ 'ex_high_knees':[700], 'ex_pike_push_up':[697], 'ex_bodyweight_squat':[699],
 }
