@@ -11,6 +11,54 @@
    "source": "https://wger.de/media/exercise-images/129/dbad8cd0-5eeb-4de2-8d9e-80c7770735fd.png",
    "wger_exercise": 129,
    "ai": true
+  },
+  {
+   "file": "ex/ex_chest_press_machine/2.webp",
+   "bytes": 37896,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Machine_Bench_Press",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_chest_press_machine/3.webp",
+   "bytes": 36244,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Machine_Bench_Press",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_chest_press_machine/4.webp",
+   "bytes": 37258,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Smith_Machine_Bench_Press",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_chest_press_machine/5.webp",
+   "bytes": 37040,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Smith_Machine_Bench_Press",
+   "wger_exercise": null,
+   "ai": false
   }
  ],
  "ex_incline_db_press": [
@@ -62,6 +110,30 @@
    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
    "source": "https://wger.de/media/exercise-images/71/Cable-crossover-1.png",
    "wger_exercise": 323,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_cable_fly/3.webp",
+   "bytes": 33486,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Flat_Bench_Cable_Flyes",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_cable_fly/4.webp",
+   "bytes": 33154,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Flat_Bench_Cable_Flyes",
+   "wger_exercise": null,
    "ai": false
   }
  ],
@@ -221,6 +293,30 @@
    "source": "https://wger.de/media/exercise-images/979/27097a3a-5749-428d-b94c-6082afe390f6.png",
    "wger_exercise": 979,
    "ai": true
+  },
+  {
+   "file": "ex/ex_hanging_leg_raise/2.webp",
+   "bytes": 36810,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Knee_Hip_Raise_On_Parallel_Bars",
+   "wger_exercise": null,
+   "ai": false
+  },
+  {
+   "file": "ex/ex_hanging_leg_raise/3.webp",
+   "bytes": 36764,
+   "w": 720,
+   "h": 480,
+   "author": "free-exercise-db",
+   "license": "Public domain (Unlicense)",
+   "license_url": "https://unlicense.org/",
+   "source": "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Knee_Hip_Raise_On_Parallel_Bars",
+   "wger_exercise": null,
+   "ai": false
   }
  ],
  "ex_hanging_knee_twist": [
